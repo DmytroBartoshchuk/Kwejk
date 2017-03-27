@@ -1,7 +1,20 @@
 .img-p {
 	padding-bottom: 30px;
+	position: relative;
 }
 
 h1 {
 	margin-bottom: 50px;
+}
+
+.glyphicon-star {
+	color: gold;
+	font-size: 15px;
+}
+
+.rates {
+	/*position: relative;*/
+	position: absolute;
+	right: 30px;
+	top: 10px;
 }
